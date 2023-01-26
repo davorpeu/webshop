@@ -1,0 +1,1 @@
+ place all the files inside wordpress\wp-content\themes\webshop
